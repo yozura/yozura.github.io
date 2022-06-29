@@ -1,5 +1,4 @@
-let nav = "
-  <div class="pos-f-t">
+let nav = "<div class="pos-f-t">
   <div class="collpase" id="navbarToggleExternalContent">
      <div class="bg-dark p-4">
        <h4 class="text-white">Collapsed content</h4>
@@ -11,6 +10,6 @@ let nav = "
       <span class="navbar-toggler-icon"></span>
     </button>
   </nav>
-</div>
-  ";
+</div>";
+
 document.write(nav);
