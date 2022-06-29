@@ -1,6 +1,4 @@
-function getNav() {
-  let nav = 
-      "
+let nav = "
   <div class="pos-f-t">
   <div class="collpase" id="navbarToggleExternalContent">
      <div class="bg-dark p-4">
@@ -15,6 +13,4 @@ function getNav() {
   </nav>
 </div>
   ";
-  
-  document.write(nav);
-}
+document.write(nav);
